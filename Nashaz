@@ -16,18 +16,7 @@ http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/113
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Bangla",Gaan Bangla
 http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/121
 #EXTINF:-1 tvg-id="" tvg-name="Gazi" tvg-logo="https://i.pinimg.com/736x/f5/77/3a/f5773af3fddadf55fd3db4777c4e75a0.jpg" group-title="Bangla",Gazi
-http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/122
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="Movies",HBO
-http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/124
-#EXTINF:-1 tvg-id="" tvg-name="History 18" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/History_TV18_logo.png/150px-History_TV18_logo.png" group-title="Documentary",History 18
-http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/128
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna Tv" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="Bangla",Jamuna Tv
-http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/129
-#EXTINF:-1 tvg-id="" tvg-name="Masranga" tvg-logo="http://maasranga.tv/wp-content/uploads/2016/02/logo1.gif" group-title="Bangla",Masranga
-http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/130
-#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="Hindi",MBC Bollywood
-http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/131
-#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="Movies",MBC Max
+http://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="Movies",MBC Max
 http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/132
 #EXTINF:-1 tvg-id="" tvg-name="MBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Movies",MBC2
 http://bdvisioniptv.ddns.net:25461/nasaz2/wsaqas/133
